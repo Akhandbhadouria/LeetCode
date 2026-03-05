@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Akhandbhadouria/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akhandbhadouria/LeetCode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Akhandbhadouria/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0344-reverse-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Akhandbhadouria/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akhandbhadouria/LeetCode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Akhandbhadouria/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Akhandbhadouria/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akhandbhadouria/LeetCode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Akhandbhadouria/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Array
 |  |
 | ------- |
