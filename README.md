@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Akhandbhadouria/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akhandbhadouria/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Akhandbhadouria/LeetCode/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/Akhandbhadouria/LeetCode/tree/master/0547-number-of-provinces) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Akhandbhadouria/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Matrix
 |  |
 | ------- |
@@ -90,13 +92,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Akhandbhadouria/LeetCode/tree/master/0547-number-of-provinces) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Akhandbhadouria/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Akhandbhadouria/LeetCode/tree/master/0547-number-of-provinces) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Akhandbhadouria/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Akhandbhadouria/LeetCode/tree/master/0547-number-of-provinces) |
+## Math
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
