@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0344-reverse-string) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akhandbhadouria/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Akhandbhadouria/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akhandbhadouria/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akhandbhadouria/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akhandbhadouria/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Binary Search
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Akhandbhadouria/LeetCode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akhandbhadouria/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Akhandbhadouria/LeetCode/tree/master/0547-number-of-provinces) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Akhandbhadouria/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akhandbhadouria/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Union-Find
 |  |
 | ------- |
@@ -126,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akhandbhadouria/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+## Topological Sort
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akhandbhadouria/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
