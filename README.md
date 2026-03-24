@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akhandbhadouria/LeetCode/tree/master/0022-generate-parentheses) |
+| [0120-triangle](https://github.com/Akhandbhadouria/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Akhandbhadouria/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
 ## Array
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Akhandbhadouria/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Akhandbhadouria/LeetCode/tree/master/0079-word-search) |
+| [0120-triangle](https://github.com/Akhandbhadouria/LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0733-flood-fill](https://github.com/Akhandbhadouria/LeetCode/tree/master/0733-flood-fill) |
