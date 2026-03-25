@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Akhandbhadouria/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Akhandbhadouria/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/0494-target-sum) |
 | [1219-path-with-maximum-gold](https://github.com/Akhandbhadouria/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Akhandbhadouria/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Akhandbhadouria/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Akhandbhadouria/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
+| [0494-target-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/0494-target-sum) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Akhandbhadouria/LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/Akhandbhadouria/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Akhandbhadouria/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akhandbhadouria/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
