@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Akhandbhadouria/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0344-reverse-string) |
+| [1143-longest-common-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akhandbhadouria/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Akhandbhadouria/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/0494-target-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Akhandbhadouria/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1143-longest-common-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
