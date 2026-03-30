@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Akhandbhadouria/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akhandbhadouria/LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Akhandbhadouria/LeetCode/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/Akhandbhadouria/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Akhandbhadouria/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Akhandbhadouria/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akhandbhadouria/LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Akhandbhadouria/LeetCode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Akhandbhadouria/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Akhandbhadouria/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Akhandbhadouria/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -164,9 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Akhandbhadouria/LeetCode/tree/master/0044-wildcard-matching) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Akhandbhadouria/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akhandbhadouria/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Akhandbhadouria/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
