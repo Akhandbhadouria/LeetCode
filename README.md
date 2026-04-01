@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Akhandbhadouria/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0983-minimum-cost-for-tickets](https://github.com/Akhandbhadouria/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/Akhandbhadouria/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/1092-shortest-common-supersequence) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0368-largest-divisible-subset](https://github.com/Akhandbhadouria/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/0494-target-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/Akhandbhadouria/LeetCode/tree/master/0733-flood-fill) |
 | [0983-minimum-cost-for-tickets](https://github.com/Akhandbhadouria/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1020-number-of-enclaves](https://github.com/Akhandbhadouria/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -190,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Akhandbhadouria/LeetCode/tree/master/0044-wildcard-matching) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
