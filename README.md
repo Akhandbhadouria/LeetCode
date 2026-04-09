@@ -227,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3527-find-the-most-common-response](https://github.com/Akhandbhadouria/LeetCode/tree/master/3527-find-the-most-common-response) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Akhandbhadouria/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
