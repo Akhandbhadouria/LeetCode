@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Akhandbhadouria/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Akhandbhadouria/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akhandbhadouria/LeetCode/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/Akhandbhadouria/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Akhandbhadouria/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Akhandbhadouria/LeetCode/tree/master/0120-triangle) |
