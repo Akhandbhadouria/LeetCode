@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Akhandbhadouria/LeetCode/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/Akhandbhadouria/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Akhandbhadouria/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Akhandbhadouria/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/Akhandbhadouria/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Akhandbhadouria/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Akhandbhadouria/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -257,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akhandbhadouria/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
