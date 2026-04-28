@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/Akhandbhadouria/LeetCode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Akhandbhadouria/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1729-find-followers-count](https://github.com/Akhandbhadouria/LeetCode/tree/master/1729-find-followers-count) |
 | [1934-confirmation-rate](https://github.com/Akhandbhadouria/LeetCode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Akhandbhadouria/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Sliding Window
