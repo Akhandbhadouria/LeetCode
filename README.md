@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Akhandbhadouria/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Akhandbhadouria/LeetCode/tree/master/0577-employee-bonus) |
+| [1045-customers-who-bought-all-products](https://github.com/Akhandbhadouria/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/1075-project-employees-i) |
