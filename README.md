@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Akhandbhadouria/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akhandbhadouria/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akhandbhadouria/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Geometry
 |  |
@@ -327,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
