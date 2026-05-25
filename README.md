@@ -314,11 +314,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
