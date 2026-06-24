@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Akhandbhadouria/LeetCode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Akhandbhadouria/LeetCode/tree/master/0231-power-of-two) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Akhandbhadouria/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Akhandbhadouria/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Akhandbhadouria/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Akhandbhadouria/LeetCode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Akhandbhadouria/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akhandbhadouria/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Akhandbhadouria/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Akhandbhadouria/LeetCode/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/Akhandbhadouria/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Indexed Tree
 |  |
 | ------- |
