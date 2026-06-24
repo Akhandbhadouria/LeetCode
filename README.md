@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Akhandbhadouria/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Akhandbhadouria/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Akhandbhadouria/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Akhandbhadouria/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Akhandbhadouria/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/Akhandbhadouria/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akhandbhadouria/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0204-count-primes) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## String Matching
 |  |
@@ -370,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Akhandbhadouria/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
