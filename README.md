@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Akhandbhadouria/LeetCode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Akhandbhadouria/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0567-permutation-in-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Akhandbhadouria/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0567-permutation-in-string) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Akhandbhadouria/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Akhandbhadouria/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Akhandbhadouria/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Akhandbhadouria/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Akhandbhadouria/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Akhandbhadouria/LeetCode/tree/master/0258-add-digits) |
