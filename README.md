@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Akhandbhadouria/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Akhandbhadouria/LeetCode/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akhandbhadouria/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akhandbhadouria/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -409,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0204-count-primes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Akhandbhadouria/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
