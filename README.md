@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akhandbhadouria/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akhandbhadouria/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akhandbhadouria/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akhandbhadouria/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1711-count-good-meals](https://github.com/Akhandbhadouria/LeetCode/tree/master/1711-count-good-meals) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Akhandbhadouria/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akhandbhadouria/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akhandbhadouria/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/Akhandbhadouria/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Akhandbhadouria/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
