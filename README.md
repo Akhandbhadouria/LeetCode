@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/Akhandbhadouria/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akhandbhadouria/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Akhandbhadouria/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akhandbhadouria/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3527-find-the-most-common-response](https://github.com/Akhandbhadouria/LeetCode/tree/master/3527-find-the-most-common-response) |
 ## Binary Search
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Akhandbhadouria/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1901-find-a-peak-element-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akhandbhadouria/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Akhandbhadouria/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Trie
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Akhandbhadouria/LeetCode/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akhandbhadouria/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akhandbhadouria/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Akhandbhadouria/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Topological Sort
 |  |
 | ------- |
