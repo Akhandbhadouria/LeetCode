@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Akhandbhadouria/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Akhandbhadouria/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1046-last-stone-weight](https://github.com/Akhandbhadouria/LeetCode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Akhandbhadouria/LeetCode/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Akhandbhadouria/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Akhandbhadouria/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Akhandbhadouria/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [1046-last-stone-weight](https://github.com/Akhandbhadouria/LeetCode/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
