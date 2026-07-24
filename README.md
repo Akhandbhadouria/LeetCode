@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Akhandbhadouria/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akhandbhadouria/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3527-find-the-most-common-response](https://github.com/Akhandbhadouria/LeetCode/tree/master/3527-find-the-most-common-response) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akhandbhadouria/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akhandbhadouria/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akhandbhadouria/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Akhandbhadouria/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akhandbhadouria/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akhandbhadouria/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akhandbhadouria/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Akhandbhadouria/LeetCode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Akhandbhadouria/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akhandbhadouria/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akhandbhadouria/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
