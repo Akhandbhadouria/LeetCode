@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Akhandbhadouria/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Akhandbhadouria/LeetCode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Akhandbhadouria/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0202-happy-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Akhandbhadouria/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Akhandbhadouria/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Akhandbhadouria/LeetCode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Akhandbhadouria/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Akhandbhadouria/LeetCode/tree/master/0048-rotate-image) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Akhandbhadouria/LeetCode/tree/master/0016-3sum-closest) |
 | [0220-contains-duplicate-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0347-top-k-frequent-elements) |
