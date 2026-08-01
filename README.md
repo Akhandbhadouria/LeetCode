@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akhandbhadouria/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akhandbhadouria/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2498-frog-jump-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Akhandbhadouria/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Akhandbhadouria/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Akhandbhadouria/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akhandbhadouria/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2498-frog-jump-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Akhandbhadouria/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Akhandbhadouria/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Akhandbhadouria/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Akhandbhadouria/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akhandbhadouria/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2498-frog-jump-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Akhandbhadouria/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/Akhandbhadouria/LeetCode/tree/master/3111-minimum-rectangles-to-cover-points) |
 ## Prefix Sum
