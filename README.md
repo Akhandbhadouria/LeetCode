@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Akhandbhadouria/LeetCode/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/Akhandbhadouria/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/Akhandbhadouria/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Akhandbhadouria/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Akhandbhadouria/LeetCode/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/Akhandbhadouria/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/0494-target-sum) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Akhandbhadouria/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Akhandbhadouria/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Akhandbhadouria/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/Akhandbhadouria/LeetCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akhandbhadouria/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Akhandbhadouria/LeetCode/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Akhandbhadouria/LeetCode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Akhandbhadouria/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Indexed Tree
 |  |
@@ -544,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Akhandbhadouria/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
