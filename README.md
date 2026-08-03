@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Akhandbhadouria/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Akhandbhadouria/LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Akhandbhadouria/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Akhandbhadouria/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Akhandbhadouria/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/0494-target-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Akhandbhadouria/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Akhandbhadouria/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0414-third-maximum-number) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Akhandbhadouria/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Akhandbhadouria/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Akhandbhadouria/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Akhandbhadouria/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Akhandbhadouria/LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Akhandbhadouria/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Akhandbhadouria/LeetCode/tree/master/0733-flood-fill) |
@@ -562,4 +565,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Akhandbhadouria/LeetCode/tree/master/0164-maximum-gap) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Akhandbhadouria/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Akhandbhadouria/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
