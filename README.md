@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1406-stone-game-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1406-stone-game-iii) |
 ## Array
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Akhandbhadouria/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akhandbhadouria/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akhandbhadouria/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1406-stone-game-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akhandbhadouria/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akhandbhadouria/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akhandbhadouria/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Akhandbhadouria/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Akhandbhadouria/LeetCode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1406-stone-game-iii) |
 ## Radix Sort
 |  |
 | ------- |
@@ -573,4 +577,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Akhandbhadouria/LeetCode/tree/master/0322-coin-change) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
