@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akhandbhadouria/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2707-extra-characters-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Akhandbhadouria/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3527-find-the-most-common-response](https://github.com/Akhandbhadouria/LeetCode/tree/master/3527-find-the-most-common-response) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1406-stone-game-iii) |
+| [2707-extra-characters-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Akhandbhadouria/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Akhandbhadouria/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Akhandbhadouria/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2707-extra-characters-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/Akhandbhadouria/LeetCode/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akhandbhadouria/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akhandbhadouria/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Akhandbhadouria/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2707-extra-characters-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3527-find-the-most-common-response](https://github.com/Akhandbhadouria/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3731-find-missing-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/3731-find-missing-elements) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Akhandbhadouria/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/Akhandbhadouria/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [2707-extra-characters-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
