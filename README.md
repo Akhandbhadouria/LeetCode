@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Akhandbhadouria/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akhandbhadouria/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Geometry
 |  |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Interactive
 |  |
 | ------- |
