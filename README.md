@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Akhandbhadouria/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3527-find-the-most-common-response](https://github.com/Akhandbhadouria/LeetCode/tree/master/3527-find-the-most-common-response) |
 ## Two Pointers
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akhandbhadouria/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akhandbhadouria/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1406-stone-game-iii) |
 | [2707-extra-characters-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/2707-extra-characters-in-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Akhandbhadouria/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/Akhandbhadouria/LeetCode/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
