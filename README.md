@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akhandbhadouria/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Akhandbhadouria/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2284-sender-with-largest-word-count](https://github.com/Akhandbhadouria/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2707-extra-characters-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Akhandbhadouria/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Akhandbhadouria/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Akhandbhadouria/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akhandbhadouria/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2284-sender-with-largest-word-count](https://github.com/Akhandbhadouria/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akhandbhadouria/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akhandbhadouria/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Akhandbhadouria/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Akhandbhadouria/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2284-sender-with-largest-word-count](https://github.com/Akhandbhadouria/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2707-extra-characters-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/2707-extra-characters-in-a-string) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Akhandbhadouria/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [2284-sender-with-largest-word-count](https://github.com/Akhandbhadouria/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3527-find-the-most-common-response](https://github.com/Akhandbhadouria/LeetCode/tree/master/3527-find-the-most-common-response) |
 ## Database
