@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Akhandbhadouria/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Akhandbhadouria/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Akhandbhadouria/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Akhandbhadouria/LeetCode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Akhandbhadouria/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
