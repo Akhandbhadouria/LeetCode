@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Akhandbhadouria/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Akhandbhadouria/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Akhandbhadouria/LeetCode/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Akhandbhadouria/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Akhandbhadouria/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Indexed Tree
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Akhandbhadouria/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Akhandbhadouria/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akhandbhadouria/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akhandbhadouria/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
