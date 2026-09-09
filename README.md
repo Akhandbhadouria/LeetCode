@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3110-score-of-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Akhandbhadouria/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
