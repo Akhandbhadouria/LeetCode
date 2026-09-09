@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Akhandbhadouria/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2284-sender-with-largest-word-count](https://github.com/Akhandbhadouria/LeetCode/tree/master/2284-sender-with-largest-word-count) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2707-extra-characters-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Akhandbhadouria/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akhandbhadouria/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Akhandbhadouria/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akhandbhadouria/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2498-frog-jump-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Akhandbhadouria/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/Akhandbhadouria/LeetCode/tree/master/3111-minimum-rectangles-to-cover-points) |
