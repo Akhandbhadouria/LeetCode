@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Akhandbhadouria/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akhandbhadouria/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Akhandbhadouria/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1048-longest-string-chain](https://github.com/Akhandbhadouria/LeetCode/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akhandbhadouria/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Akhandbhadouria/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Akhandbhadouria/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/0494-target-sum) |
+| [0658-find-k-closest-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Akhandbhadouria/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Akhandbhadouria/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Akhandbhadouria/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Akhandbhadouria/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0658-find-k-closest-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Akhandbhadouria/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Akhandbhadouria/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Akhandbhadouria/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0414-third-maximum-number) |
+| [0658-find-k-closest-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Akhandbhadouria/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Akhandbhadouria/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Akhandbhadouria/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Akhandbhadouria/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -612,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Akhandbhadouria/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/Akhandbhadouria/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/Akhandbhadouria/LeetCode/tree/master/1046-last-stone-weight) |
