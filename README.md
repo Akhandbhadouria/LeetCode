@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Akhandbhadouria/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akhandbhadouria/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Akhandbhadouria/LeetCode/tree/master/0733-flood-fill) |
+| [0872-leaf-similar-trees](https://github.com/Akhandbhadouria/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Akhandbhadouria/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Akhandbhadouria/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akhandbhadouria/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/Akhandbhadouria/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Akhandbhadouria/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akhandbhadouria/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/Akhandbhadouria/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Akhandbhadouria/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
