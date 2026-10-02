@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akhandbhadouria/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akhandbhadouria/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2239-find-closest-number-to-zero](https://github.com/Akhandbhadouria/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Akhandbhadouria/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Akhandbhadouria/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/Akhandbhadouria/LeetCode/tree/master/1711-count-good-meals) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Akhandbhadouria/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Akhandbhadouria/LeetCode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Akhandbhadouria/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Akhandbhadouria/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2284-sender-with-largest-word-count](https://github.com/Akhandbhadouria/LeetCode/tree/master/2284-sender-with-largest-word-count) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
 | ------- |
