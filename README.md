@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Akhandbhadouria/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Akhandbhadouria/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/0494-target-sum) |
+| [0605-can-place-flowers](https://github.com/Akhandbhadouria/LeetCode/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Akhandbhadouria/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Akhandbhadouria/LeetCode/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0605-can-place-flowers](https://github.com/Akhandbhadouria/LeetCode/tree/master/0605-can-place-flowers) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Akhandbhadouria/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akhandbhadouria/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1903-largest-odd-number-in-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/1903-largest-odd-number-in-string) |
