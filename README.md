@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Akhandbhadouria/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akhandbhadouria/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Akhandbhadouria/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/Akhandbhadouria/LeetCode/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3731-find-missing-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/Akhandbhadouria/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Akhandbhadouria/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Akhandbhadouria/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Akhandbhadouria/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akhandbhadouria/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Akhandbhadouria/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Akhandbhadouria/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
