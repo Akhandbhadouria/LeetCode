@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Akhandbhadouria/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1021-remove-outermost-parentheses](https://github.com/Akhandbhadouria/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Akhandbhadouria/LeetCode/tree/master/1048-longest-string-chain) |
+| [1079-letter-tile-possibilities](https://github.com/Akhandbhadouria/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1092-shortest-common-supersequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akhandbhadouria/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Akhandbhadouria/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/0494-target-sum) |
+| [1079-letter-tile-possibilities](https://github.com/Akhandbhadouria/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/Akhandbhadouria/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Akhandbhadouria/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Akhandbhadouria/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Akhandbhadouria/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Akhandbhadouria/LeetCode/tree/master/1048-longest-string-chain) |
+| [1079-letter-tile-possibilities](https://github.com/Akhandbhadouria/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akhandbhadouria/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Akhandbhadouria/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akhandbhadouria/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Akhandbhadouria/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1079-letter-tile-possibilities](https://github.com/Akhandbhadouria/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Akhandbhadouria/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Akhandbhadouria/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2284-sender-with-largest-word-count](https://github.com/Akhandbhadouria/LeetCode/tree/master/2284-sender-with-largest-word-count) |
