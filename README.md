@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akhandbhadouria/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akhandbhadouria/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Akhandbhadouria/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhandbhadouria/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Akhandbhadouria/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Akhandbhadouria/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Akhandbhadouria/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Akhandbhadouria/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Akhandbhadouria/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2678-number-of-senior-citizens](https://github.com/Akhandbhadouria/LeetCode/tree/master/2678-number-of-senior-citizens) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/Akhandbhadouria/LeetCode/tree/master/2284-sender-with-largest-word-count) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Akhandbhadouria/LeetCode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Akhandbhadouria/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Akhandbhadouria/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2707-extra-characters-in-a-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akhandbhadouria/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
