@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/Akhandbhadouria/LeetCode/tree/master/1711-count-good-meals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Akhandbhadouria/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Akhandbhadouria/LeetCode/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Akhandbhadouria/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Akhandbhadouria/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Akhandbhadouria/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akhandbhadouria/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akhandbhadouria/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Akhandbhadouria/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Akhandbhadouria/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2498-frog-jump-ii](https://github.com/Akhandbhadouria/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Akhandbhadouria/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Akhandbhadouria/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Akhandbhadouria/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akhandbhadouria/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Akhandbhadouria/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Akhandbhadouria/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Akhandbhadouria/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akhandbhadouria/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Akhandbhadouria/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akhandbhadouria/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Akhandbhadouria/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Akhandbhadouria/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Akhandbhadouria/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Akhandbhadouria/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akhandbhadouria/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Akhandbhadouria/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akhandbhadouria/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akhandbhadouria/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Akhandbhadouria/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akhandbhadouria/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akhandbhadouria/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Recursion
@@ -615,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Akhandbhadouria/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akhandbhadouria/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akhandbhadouria/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Akhandbhadouria/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Akhandbhadouria/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/Akhandbhadouria/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Akhandbhadouria/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
